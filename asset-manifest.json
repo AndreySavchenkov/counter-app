@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AndreySavchenkov/counter-app/static/css/main.1d5d473e.chunk.css",
+    "main.js": "/AndreySavchenkov/counter-app/static/js/main.c9e8155e.chunk.js",
+    "main.js.map": "/AndreySavchenkov/counter-app/static/js/main.c9e8155e.chunk.js.map",
+    "runtime-main.js": "/AndreySavchenkov/counter-app/static/js/runtime-main.33bdd855.js",
+    "runtime-main.js.map": "/AndreySavchenkov/counter-app/static/js/runtime-main.33bdd855.js.map",
+    "static/js/2.f44be0ca.chunk.js": "/AndreySavchenkov/counter-app/static/js/2.f44be0ca.chunk.js",
+    "static/js/2.f44be0ca.chunk.js.map": "/AndreySavchenkov/counter-app/static/js/2.f44be0ca.chunk.js.map",
+    "static/js/3.72fe968b.chunk.js": "/AndreySavchenkov/counter-app/static/js/3.72fe968b.chunk.js",
+    "static/js/3.72fe968b.chunk.js.map": "/AndreySavchenkov/counter-app/static/js/3.72fe968b.chunk.js.map",
+    "index.html": "/AndreySavchenkov/counter-app/index.html",
+    "static/css/main.1d5d473e.chunk.css.map": "/AndreySavchenkov/counter-app/static/css/main.1d5d473e.chunk.css.map",
+    "static/js/2.f44be0ca.chunk.js.LICENSE.txt": "/AndreySavchenkov/counter-app/static/js/2.f44be0ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33bdd855.js",
+    "static/js/2.f44be0ca.chunk.js",
+    "static/css/main.1d5d473e.chunk.css",
+    "static/js/main.c9e8155e.chunk.js"
+  ]
+}
